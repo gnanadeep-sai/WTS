@@ -1,0 +1,13 @@
+[project]
+name = "wts"
+version = "0.1.0"
+description = "Search phrases across YouTube channel transcripts"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+    { name = "Gnanadeep" }
+]
+
+dependencies = [
+    "yt-dlp",
+]
