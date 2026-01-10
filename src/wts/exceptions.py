@@ -1,0 +1,2 @@
+class ChannelFetchError(RuntimeError):
+    pass
